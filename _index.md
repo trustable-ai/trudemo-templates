@@ -1,5 +1,5 @@
 # Demo
 
-- [Kubernetes Manager](truk8s.md) Kubernetes Manager
-- [AI CRM](truaicrm.md) AI CRM
-- [Tetris](tetris.md) Tetris Game
+- [Kubernetes Manager](https://github.com/trustable-ai/truk8s) Kubernetes Manager
+- [Security Check](https://github.com/trustable-ai/securitycheck) Security Checker
+- [Tetris](https://github.com/trustable-ai/tetris) Tetris Game
